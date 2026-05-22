@@ -1,29 +1,31 @@
 {
   "app_type": "saas_dashboard",
-  "app_name": "RankRocket",
-  "tagline": "Automated SEO intelligence to dominate Google search results for e-commerce brands.",
-  "primary_color": "#1E3A5F",
-  "accent_color": "#FF6B35",
+  "app_name": "StellarRank",
+  "tagline": "Automate your SEO and dominate search results with AI-driven insights.",
+  "primary_color": "#1E3A8A",
+  "accent_color": "#F59E0B",
   "sections": [
-    "Hero",
-    "Features",
-    "How It Works",
-    "Pricing",
-    "Testimonials",
-    "CTA"
+    "Dashboard",
+    "Keyword Research",
+    "Content Generation",
+    "Link Building",
+    "Rankings & Analytics",
+    "Client Management",
+    "Settings"
   ],
   "backend_resources": [
-    "keyword_research",
-    "content_generation",
-    "link_building",
-    "user_management",
-    "analytics_reports"
+    "keywords",
+    "content",
+    "backlinks",
+    "rankings",
+    "clients",
+    "users",
+    "reports"
   ],
   "features": [
-    "AI-Powered Keyword Discovery",
-    "Automated Content Generation",
-    "Smart Link Building Outreach",
-    "Competitor SEO Analysis",
-    "Rank Tracking & Performance Dashboard"
+    "AI-powered keyword research and clustering",
+    "Automated content generation with SEO optimization",
+    "Smart link building outreach and tracking",
+    "Real-time ranking monitoring and alerts"
   ]
 }
